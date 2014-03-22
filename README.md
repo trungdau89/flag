@@ -1,6 +1,20 @@
 reTEK 2
 
-# Brooklynt Overflow
+# Some Assembly Required
+
+```
+     /\__/\
+    /`    '\
+  ===  {0} ===
+    \  --  /
+   /        \
+  /          \
+ |            |
+  \  ||  ||  /
+   \_oo__oo_/#######o
+```
+
+#Brooklynt Overflow
 
 ```
      /\__/\
